@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\Cons
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{0689BDC4-9E9D-4FC7-93CE-2E9AB2E857C8}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\Northwind.sql = ..\..\..\Desktop\Northwind.sql
+		Northwind.sql = Northwind.sql
 	EndProjectSection
 EndProject
 Global
